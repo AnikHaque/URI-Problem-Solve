@@ -1,7 +1,3 @@
-// https://www.beecrowd.com.br/judge/en/problems/view/1010
-// Tanjila Shamima
-// Software Engineer at BJIT Group
-// uri online problem solved by Tanjila Shamima
 
 #include<iostream>
 #include<stdio.h>
